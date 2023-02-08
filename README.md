@@ -1,6 +1,7 @@
 # DATA-SCIENCE-PROJECTS
 
-A collection of data science projects that involve the following:
+# A collection of data science projects that involve the following:
+
 Understanding the problem to be solved.
 
 Data collecction and uploads of the datasets used for the projects.
