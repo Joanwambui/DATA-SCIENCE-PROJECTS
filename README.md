@@ -1,6 +1,6 @@
 # DATA-SCIENCE-PROJECTS
 
-# A collection of data science projects that involve the following:
+# A group of data science projects that include the following:
 
 Understanding the problem to be solved.
 
