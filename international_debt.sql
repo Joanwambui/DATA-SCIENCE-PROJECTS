@@ -9,5 +9,6 @@ CREATE TABLE international_debt
   debt numeric
 );
 
+
 -- Copy over data from CSV
 \copy international_debt FROM 'international_debt.csv' DELIMITER ',' CSV HEADER;
