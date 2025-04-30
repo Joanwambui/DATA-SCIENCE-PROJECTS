@@ -1,5 +1,6 @@
 ﻿-- Table: international_debt
 
+
 CREATE TABLE international_debt
 (
   country_name character varying(50),
